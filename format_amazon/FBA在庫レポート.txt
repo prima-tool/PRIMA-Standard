@@ -1,0 +1,1 @@
+seller-sku	fulfillment-channel-sku	asin	condition-type	Warehouse-Condition-code	Quantity Available
