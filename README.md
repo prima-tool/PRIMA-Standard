@@ -1,5 +1,6 @@
 # 取り込みファイルフォーマット
 詳しくはユーザーガイドの[取込ファイルフォーマット](https://prima-tool.com/users_guide/import_file_format)をご確認ください。
+すべてのフォーマットファイルはこちらのGithubからダウンロードできます。
 
 ![github_screenshot.jpg](https://prima-tool.com/prima_tool/wp-content/uploads/2018/05/github_screenshot.jpg)
 
